@@ -1,0 +1,22 @@
+img {
+/* size-adjust: 10px; */
+width: 15%;
+justify-content: left;
+}
+
+body {
+    background-color: aquamarine;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    color: white;
+}
+
+.topbot {
+    width: 30px;
+}
+
+div{
+    background-color: white;
+    color: black;
+
+}
